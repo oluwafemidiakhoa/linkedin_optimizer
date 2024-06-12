@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+langchain
+langchain-core
+langchain-huggingface
+python-docx
+fpdf
+python-dotenv
